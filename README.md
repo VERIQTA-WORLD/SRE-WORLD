@@ -66,7 +66,7 @@ You will not find:
 - DevOps beginner roadmaps
 - Certification dumps or memorization material
 - Random links included only because they mention SRE
-- Unverified AI-generated summaries
+- Unverified summaries
 
 Tools may appear when they support a specific reliability practice, incident scenario, measurement method, or production investigation. The practice remains the focus, not the product.
 
