@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/VERIQTA-SRE-WORLD-ROADMAP.png" alt="VERIQTA SRE World Roadmap" width="100%">
+  <img src="https://github.com/veriqta/veriqta/blob/main/sre%201.png" alt="VERIQTA SRE World Roadmap" width="100%">
 </p>
 
 <h1 align="center">SRE WORLD</h1>
