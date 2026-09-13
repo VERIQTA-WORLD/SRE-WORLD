@@ -2,7 +2,7 @@
 
 > Site Reliability Engineering is an engineering discipline for operating services at an explicitly agreed level of reliability. It combines software engineering, systems engineering, production operations, measurement, and organizational decision-making.
 
-## Chapter Purpose
+## Section Purpose
 
 The term **SRE** is often reduced to monitoring dashboards, cloud administration, Kubernetes operations, automation, or an operations job with a newer title. Those descriptions miss the discipline’s defining ideas.
 
@@ -1455,19 +1455,10 @@ You have completed this chapter when you can truthfully confirm:
 
 ---
 
-## Next Chapter
+## Next Section
 
 [02: History and Evolution of SRE](./02-History-and-Evolution-of-SRE.md)
 
----
 
-## Maintained by VERIQTA
 
-SRE World is created and maintained by [VERIQTA](https://github.com/veriqta).
 
-- Website: [veriqta.com](https://www.veriqta.com/)
-- GitHub: [github.com/veriqta](https://github.com/veriqta)
-- Instagram: [@veriqta](https://www.instagram.com/veriqta/)
-- Medium: [veriqta.medium.com](https://veriqta.medium.com/)
-
-> Reliability is a measurable service outcome, an engineering responsibility, and a business decision.
