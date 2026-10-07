@@ -1,0 +1,74 @@
+[
+  {
+    "project": "service-health-monitoring",
+    "level": "junior",
+    "path": "03-projects/01-junior/01-service-health-monitoring",
+    "goal": "Build a monitored application with useful health signals and verified alerts."
+  },
+  {
+    "project": "slo-and-error-budget-dashboard",
+    "level": "junior",
+    "path": "03-projects/01-junior/02-slo-and-error-budget-dashboard",
+    "goal": "Build an SLO dashboard with transparent calculations and controlled failure evidence."
+  },
+  {
+    "project": "backup-and-restore-verification",
+    "level": "junior",
+    "path": "03-projects/01-junior/03-backup-and-restore-verification",
+    "goal": "Build scheduled backups and prove that application data can be restored."
+  },
+  {
+    "project": "operational-runbook-and-health-checks",
+    "level": "junior",
+    "path": "03-projects/01-junior/04-operational-runbook-and-health-checks",
+    "goal": "Build repeatable health checks and validate a service recovery runbook."
+  },
+  {
+    "project": "distributed-application-observability",
+    "level": "mid-level",
+    "path": "03-projects/02-mid-level/01-distributed-application-observability",
+    "goal": "Instrument multiple services and locate an injected failure using correlated evidence."
+  },
+  {
+    "project": "canary-release-and-rollback",
+    "level": "mid-level",
+    "path": "03-projects/02-mid-level/02-canary-release-and-rollback",
+    "goal": "Build a canary delivery workflow with deterministic health gates and tested rollback."
+  },
+  {
+    "project": "incident-investigation-workspace",
+    "level": "mid-level",
+    "path": "03-projects/02-mid-level/03-incident-investigation-workspace",
+    "goal": "Build an evidence workspace supporting incident timelines and verified recovery."
+  },
+  {
+    "project": "dependency-failure-and-recovery-lab",
+    "level": "mid-level",
+    "path": "03-projects/02-mid-level/04-dependency-failure-and-recovery-lab",
+    "goal": "Build a dependency test environment and improve timeout and recovery behaviour."
+  },
+  {
+    "project": "reliability-test-and-release-gates",
+    "level": "senior",
+    "path": "03-projects/03-senior/01-reliability-test-and-release-gates",
+    "goal": "Build repeatable reliability tests and use measured results to gate a release."
+  },
+  {
+    "project": "disaster-recovery-validation",
+    "level": "senior",
+    "path": "03-projects/03-senior/02-disaster-recovery-validation",
+    "goal": "Restore a stateful service in isolation and measure recovery time and data loss."
+  },
+  {
+    "project": "capacity-and-overload-management",
+    "level": "senior",
+    "path": "03-projects/03-senior/03-capacity-and-overload-management",
+    "goal": "Load-test an application and verify capacity assumptions, limits and overload handling."
+  },
+  {
+    "project": "production-readiness-and-reliability-review",
+    "level": "senior",
+    "path": "03-projects/03-senior/04-production-readiness-and-reliability-review",
+    "goal": "Build a service with ownership, SLOs, observability, tested recovery and documented trade-offs."
+  }
+]
